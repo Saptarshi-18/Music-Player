@@ -16,7 +16,7 @@
 
 <br> <br> <br>
 
-<img src = "https://github.com/Saptarshi-18/Music_Player/blob/main/Screenshot%202022-04-24%20at%2010-09-14%20Playlist-1.png">
+<img src = "https://github.com/Saptarshi-18/Music-Player/blob/main/Screenshot%202022-04-24%20at%2010-09-14%20Playlist-1.png">
 
 ## Contributing
 
@@ -30,4 +30,4 @@ If you would like to contribute to this project, please follow these steps:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License 
